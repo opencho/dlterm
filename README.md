@@ -1,4 +1,4 @@
-***Deep Learning 2019, PNU-CSE ***
+***Deep Learning 2019, PNU-CSE***
 # **Yeast Protein-Protein Interaction Graph Edge Prediction using Matrix Factorization and Graph Convolution Network**
 
 Graph Convolution Network(GCN)는 그래프를 입력으로 받는 Deep learning 모델이다. Yeast PPI 데이터셋을 사용하여 기존에 수행된 연구에서는 단순히 edge의 연결 정보만으로 추가 edge를 추론하였다. 우리는 예측 성능을 좀 더 높이기 위해 몇 가지 방법을 추가하였다.
@@ -18,6 +18,7 @@ Interaction관계를 하나의 그래프로 볼 수 있기 때문에 기본적�
 
 ## Results
 실험중에 있다.
+
 
 ## References
 - Graph Sampling Package - https://github.com/Ashish7129/Graph_Sampling
